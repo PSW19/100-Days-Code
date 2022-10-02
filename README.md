@@ -7,3 +7,4 @@ Day 5 Quadratic Equation
 Day 6 Brand Name Generator
 Day 7 F-string
 Day 8 Fibonacci series
+Day 9 Graph
