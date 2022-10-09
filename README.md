@@ -15,3 +15,4 @@ Day 13 LCM
 Day 14 What if !!!
 Day 15 if...elif...else
 Day 16 Using Nested if
+Day 17 using a file variable
