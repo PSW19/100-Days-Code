@@ -3,6 +3,7 @@ C = int(input("Enter the number of columns:"))
 matrix = []
 print("Enter the entries rowwise:")
 
+
 for i in range(R):
     a =[]
     for j in range(C):      
